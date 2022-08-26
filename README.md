@@ -20,6 +20,8 @@ The website is distributed via Cloudfront. CloudFront has been configured to ret
 
 <a href = "https://d25loijkf5z8l6.cloudfront.net/" target = "_blank">Josh Travelog</a>
 
+https://d25loijkf5z8l6.cloudfront.net/
+
 <h3>CloudFront Distribution:</h3>
 
 <a href = "http://mystaticweb930573094765bucket.s3-website-us-east-1.amazonaws.com/" target = "_blank">Josh Travelog</a>
